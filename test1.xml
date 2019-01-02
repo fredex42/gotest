@@ -1,0 +1,19 @@
+<?xml verson="1.0" encoding="UTF-8"?>
+
+<points>
+    <first_test>
+        <desc>Point 1</desc>
+        <xPos>3</xPos>
+        <yPos>5</yPos>
+    </first_test>
+    <first_test>
+        <desc>Point 2</desc>
+        <xPos>7</xPos>
+        <yPos>9</yPos>
+    </first_test>
+    <first_test>
+        <desc>Point 3</desc>
+        <xPos>11</xPos>
+        <yPos>13</yPos>
+    </first_test>
+</points>
